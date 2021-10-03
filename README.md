@@ -1,7 +1,7 @@
 # poligonos_test
 
 <h3>Descrição: </h3>
-<p>Api criada no Laravel para realizar cadastros de retângulos e triângulos e, automaticamente obter o valor de suas respectivas áreas através dos valores de base e altura informados previamente. </p>
+<p>Api criada no Laravel 8 para realizar cadastros de retângulos e triângulos e, automaticamente obter o valor de suas respectivas áreas através dos valores de base e altura informados previamente. </p>
 <h4>Necessário: </h4>
 <ul>
   <li>Composer</li>
