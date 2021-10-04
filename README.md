@@ -17,7 +17,7 @@
   <li>Banco de Dados MySQL</li>
   <li>PHP 7.3^</li>
   <li>Criar base de dados: "poligonos"</li>
-  <li>Após clonar o repositório, utilizar o comandos: composer update e php artisan migrate, dentro do repositório para atualizar as dependências e migrar as tabelas, respectivamente.</li>
+    <li>Após clonar o repositório, utilizar o comandos: <code>composer update</code>,<code>php artisan config:cache</code> e <code>php artisan migrate</code>, dentro do repositório para atualizar as dependências,local raíz do diretório e migrar as tabelas, respectivamente.</li>
 </ul>
 
 <p>Os dados podem ser visualizados pelo Postman ou pelo navegador, porém a criação de dados somente utilizando uma ferramenta de teste de API específica.</p>
